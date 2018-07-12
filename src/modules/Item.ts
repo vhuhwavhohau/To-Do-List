@@ -1,0 +1,6 @@
+interface Items{
+
+    Goals : string; 
+    
+
+}
