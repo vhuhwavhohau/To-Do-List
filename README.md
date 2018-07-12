@@ -6,4 +6,4 @@ TOPICS COVERED IN A APP
 1. Arrays
 2. Interface
 3. navparam and ctrlParam
-4.
+4. custom classes
